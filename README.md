@@ -139,12 +139,9 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 **Utkarsh Sahu**
 Full Stack Developer | BCA Student
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/utkarshahu) • [GitHub](https://github.com/utkarshahu)
 
 ---
 
-### 📄 License
-
-This project is licensed under the [ISC License](https://opensource.org/licenses/ISC)
 
 ---
